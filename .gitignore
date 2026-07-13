@@ -1,0 +1,18 @@
+# 原始资料（PDF/DOCX 等大文件，不进版本控制）
+.原始资料/
+
+# 项目配置与工作文件（隐私）
+AGENTS.md
+.workbuddy/
+.reasonix/
+
+# Obsidian 本地工作区状态（个人路径，不共享）
+.obsidian/workspace.json
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 系统文件
+Thumbs.db
+.DS_Store
